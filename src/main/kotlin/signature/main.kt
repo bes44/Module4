@@ -1,4 +1,4 @@
-package Signature
+package signature
 
 /**
  * 1. Написать функцию возведения числа a в степень n.
