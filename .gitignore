@@ -28,3 +28,8 @@
 /target/classes/abstractClasses/Pyaterochka.class
 /target/classes/abstractClasses/Shop.class
 /target/classes/abstractClasses/Student.class
+/target/classes/interfacesDZ/Describable.class
+/target/classes/interfacesDZ/EmergencyService.class
+/target/classes/interfacesDZ/FireDepartment.class
+/target/classes/interfacesDZ/MainKt.class
+/target/classes/interfacesDZ/MedicalService.class
